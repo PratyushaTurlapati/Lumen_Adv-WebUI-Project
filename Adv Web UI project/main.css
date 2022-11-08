@@ -1,0 +1,72 @@
+button{
+    background-color:#ffffe0;
+    width: 150px;
+    height: 50px;
+    border-radius: 20px;
+    border-color:darkkhaki;
+    text-decoration: none;
+}
+.bot{
+    background-color:#ffffe0;
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    margin-left: 90px;
+    border-radius: 20px;
+    border-color:darkkhaki;
+    color: black;
+    text-decoration: none;
+}
+
+.headerLyt-identity{
+    margin-left: 500px;
+    width: 500px;
+}
+body{
+    background-color:seashell;
+    margin-left: 10px;
+    margin-right: 20px;
+    border: 5px solid red;
+    border-color: mediumslateblue;
+}
+.info{
+    background-color:seashell;
+
+    border: 0.5px solid red;
+    border-color: mediumslateblue;
+
+}
+.container1{
+    border-style:double;
+    background-color:rgb(234, 183, 115);
+    margin-top: 20px;
+    margin-right: 20px;
+    width: 300px;
+    height: 250px;
+}
+h3{
+    text-align: center;
+}
+footer{
+    color:mediumslateblue;
+}
+.matter{
+    background-color:mediumslateblue;
+}
+.l1{
+    margin-left: 150px;
+}
+p,ul{
+    margin-left: 150px;
+}
+c1{
+    float:left;
+}
+link{
+    margin-top: 100px;
+}
+legend {
+    background-color: gray;
+    color: white;
+    padding: 5px 10px;
+  }
